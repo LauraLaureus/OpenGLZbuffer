@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		27D7F9DE1CA99E8A005CAFD9 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot.png; path = OpenGLZbuffer/Screenshot.png; sourceTree = "<group>"; };
 		27EA70401C8ED03E00A67DF6 /* OpenGLZbuffer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OpenGLZbuffer; sourceTree = BUILT_PRODUCTS_DIR; };
 		27EA704A1C8ED07800A67DF6 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		27EA704B1C8ED07800A67DF6 /* View.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = View.c; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		27EA70371C8ED03D00A67DF6 = {
 			isa = PBXGroup;
 			children = (
+				27D7F9DE1CA99E8A005CAFD9 /* Screenshot.png */,
 				27EA70421C8ED03E00A67DF6 /* OpenGLZbuffer */,
 				27EA70411C8ED03E00A67DF6 /* Products */,
 			);
@@ -243,6 +245,7 @@
 				27EA70491C8ED03E00A67DF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
